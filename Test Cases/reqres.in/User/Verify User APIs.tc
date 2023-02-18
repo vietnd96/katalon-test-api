@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify User APIs</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>307f64ac-07f7-4b5d-a296-43e9e09433d2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1b55b057-9ba6-4e18-a72a-1609cb8256f9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>02d9f4e5-94c3-40dd-b72d-b317f6b7d35f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b5b5ca90-bd3c-4fe4-a87d-e20ce9d2c2b6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1b55b057-9ba6-4e18-a72a-1609cb8256f9</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>02d9f4e5-94c3-40dd-b72d-b317f6b7d35f</id>
+      <masked>false</masked>
+      <name>variable_0</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b5b5ca90-bd3c-4fe4-a87d-e20ce9d2c2b6</id>
+      <masked>false</masked>
+      <name>variable_1</name>
+   </variable>
+</TestCaseEntity>
